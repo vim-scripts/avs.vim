@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1418
+
+This is a syntax file for avisynth http://www.avisynth.org a powerful tool for video post-production. It provides almost unlimited ways of editing and processing videos. AviSynth works as a frameserver, providing instant editing without the need for temporary files.
+
+This syntax file attempts to add all of the avisynth filters to the syntax list, as well as comments, strings, and nubmers.  This helps make long avs scripts easier to read. 
+
+I tried to include all of the third-party filters in this release, but there are A LOT of them!  Shoot me an email with a list of filters that you would like added to the syntax file and I will release a new version with an update. There are always new filters coming out.  
